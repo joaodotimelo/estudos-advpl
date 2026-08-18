@@ -1,0 +1,8 @@
+SEQUENCIA DE COMANDOS ANTES DE SUBIR UM ARQUIVO PARA O GITHUB:
+
+git status   → o que mudou?
+git diff     → o que mudou, exatamente?
+git add .    → marco pra ir
+git status   → confere de novo
+git commit   → registra localmente
+git push     → envia pro GitHub
